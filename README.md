@@ -22,7 +22,7 @@ Additional services (OnlineSecurity, TechSupport, StreamingTV, etc.)
 **Python (Jupyter Notebook)** – For data cleaning and exploration
 **Power BI **– For creating interactive dashboards and visualizations
 
-**Insights:**
+**Key Insights:**
 
 **1. High Churn in Month-to-Month Contracts**
 
