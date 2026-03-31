@@ -57,7 +57,10 @@ Fiber optic users have the highest churn at 41.89%, followed by customers lackin
 
 
 **Dashboard:**
+
 ![Dashboard 1](images/Dashboard-1.png)
+
+
 
 ![Dashboard 2](images/Dashboard-2.png)
 
