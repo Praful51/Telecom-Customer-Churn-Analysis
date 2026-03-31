@@ -1,5 +1,27 @@
 # Telecom-Customer-Churn-Analysis
 
+**Project Overview**
+
+This project analyzes the Telco Customer Churn dataset to understand why customers leave and identify key factors driving churn. The main goal is to find high-risk customer segments, discover safe/loyal segments, and provide actionable insights to improve customer retention.
+Through exploratory data analysis and SQL queries, the project highlights important patterns related to contract types, tenure, payment methods, and additional services.
+
+**Dataset Description**
+
+The dataset contains information about 7,043 customers of a telecom company. It includes customer demographics, account information, services subscribed, billing details, and a target column Churn indicating whether the customer left the company (Yes/No).
+
+**Key columns include:**
+
+Contract type, Tenure, Monthly Charges, Total Charges
+Payment Method, Internet Service
+Additional services (OnlineSecurity, TechSupport, StreamingTV, etc.)
+
+
+**Tools Used:**
+
+**MySQL** – For data analysis and writing SQL queries
+**Python (Jupyter Notebook)** – For data cleaning and exploration
+**Power BI **– For creating interactive dashboards and visualizations
+
 **Insights:**
 
 **1. High Churn in Month-to-Month Contracts**
