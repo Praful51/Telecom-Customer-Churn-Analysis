@@ -3,7 +3,7 @@
 **Insights:**
 
 **1. High Churn in Month-to-Month Contracts**
-!(images/churn_by_contracttype.png)
+![High churn in month-to-month contracts](images/churn_by_contracttype.png)
 - Churn rate is high in month-to month contract type i.e 42.71% which is high than any other contract type that clearly shows that customers who are using our service based on month to month contract are more likely to churn.
 
 **2. Very High Churn Among New Customers**
