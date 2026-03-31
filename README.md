@@ -54,3 +54,17 @@ Additional services (OnlineSecurity, TechSupport, StreamingTV, etc.)
 
 - Customers without additional services churn significantly more.
 Fiber optic users have the highest churn at 41.89%, followed by customers lacking OnlineSecurity (41.77%) and TechSupport (41.64%).
+
+**Business Recommendations:**
+
+- Prioritize converting Month-to-Month customers into One-year or Two-year contracts by offering attractive discounts and benefits.
+  
+- Implement a strong onboarding and engagement program for customers in their first 6 months to improve early retention.
+  
+- Customers on Month-to-Month + Fiber Optic who pay via Electronic Check are leaving the fastest,Run a targeted retention campaign offering them:
+  -> Bill discount for upgrading to 1 or 2-year contract
+  -> Free Tech Support for 6 months
+  
+- Protect and nurture Two-year contract customers with excellent service, upgrade offers, and loyalty rewards to maximize long-term value.
+  
+- Actively promote OnlineSecurity, TechSupport, and bundled services to customers, as customers using more services are significantly less likely to churn.
