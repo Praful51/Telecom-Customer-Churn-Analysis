@@ -1,1 +1,19 @@
 # Telecom-Customer-Churn-Analysis
+
+**Insights:**
+
+**1. High Churn in Month-to-Month Contracts**
+- Churn rate is high in month-to month contract type i.e 42.71% which is high than any other contract type that clearly shows that customers who are using our service based on month to month contract are more likely to churn.
+
+**2. Very High Churn Among New Customers**
+- Almost half of the new customers i.e (Tenure=0-6 months) are likely to churn with churn rate of 52.94%
+
+**3. Top High-Risk Customer Segments**
+- Customer segments such as customers with month-to-month contract, payment method as electronic check and internet service fiber optic & customers with month-to-month contract, payment method as mailed check and internet service fiber optic are high risk customer segments with 60.37% & 50.75% historical churn rate     respectively.
+
+**4. Safest & Valuable Customer Segments**
+- Customers with two year contract,tenure of 13-25+ months and payment method credit card/bank transfer(automatic) or mailed check are the safer segments showing strong customer retention with churn rate of less than 5%
+
+**5. High Churn Due to Lack of Additional Services**
+- Customers without additional services churn significantly more.
+Fiber optic users have the highest churn at 41.89%, followed by customers lacking OnlineSecurity (41.77%) and TechSupport (41.64%).
