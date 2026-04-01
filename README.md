@@ -78,3 +78,12 @@ Fiber optic users have the highest churn at 41.89%, followed by customers lackin
 - Protect and nurture Two-year contract customers with excellent service, upgrade offers, and loyalty rewards to maximize long-term value.
   
 - Actively promote OnlineSecurity, TechSupport, and bundled services to customers, as customers using more services are significantly less likely to churn.
+
+
+**Machine Learning Model**
+
+- Built a classification model using Logistic Regression to predict customer churn  
+- Achieved ~82% accuracy with 60% recall for churn class  
+- Compared with Random Forest model and selected Logistic Regression based on better accuracy as well as recall performance
+- The model can effectively identify a significant portion of customers likely to churn, helping businesses take proactive retention measures.
+  
