@@ -80,7 +80,7 @@ Fiber optic users have the highest churn at 41.89%, followed by customers lackin
 - Actively promote OnlineSecurity, TechSupport, and bundled services to customers, as customers using more services are significantly less likely to churn.
 
 
-**Machine Learning Model**
+**Machine Learning Model:**
 
 - Built a classification model using Logistic Regression to predict customer churn  
 - Achieved ~82% accuracy with 60% recall for churn class  
