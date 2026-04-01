@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Analysis
+# Telcom-Customer-Churn-Analysis
 
 **Project Overview**
 
